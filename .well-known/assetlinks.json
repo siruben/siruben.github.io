@@ -1,8 +1,10 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.siruben.twa",
-        "sha256_cert_fingerprints": ["D2:AF:B4:E7:A0:D9:DC:50:A9:4E:82:00:4C:88:3C:97:42:6D:96:93:6B:93:0D:DA:3F:0C:6A:B6:7A:E6:AD:4A"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.siruben.twa",
+      "sha256_cert_fingerprints": ["69:22:2F:A4:53:08:00:83:03:FA:B2:D7:02:63:AC:E3:0A:A2:77:AC:A5:6E:96:BE:7C:81:1A:D4:F6:10:B1:A1"]
+    }
+  }
+]
